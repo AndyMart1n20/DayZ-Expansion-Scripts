@@ -1,0 +1,25 @@
+{
+    "EnableBook": 1,
+    "EnableStatusTab": 1,
+    "DisplayServerUptimeInStatusTab": 1,
+    "DisplayPlayerCountInStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableTerritoryTab": 1,
+    "ServerInfo": {
+        "serverName": "DAYZ EXPANSION TEST SERVER",
+        "infoTitle1": "DAYZ EXPANSION",
+        "infoContent1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "infoTitle2": "",
+        "infoContent2": "",
+        "infoTitle3": "",
+        "infoContent3": ""
+    },
+    "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black",
+    "WebsiteButton": 0,
+    "WebsiteURL": "https://www.dayzexpansion.com/page",
+    "ForumsButton": 0,
+    "ForumsURL": "https://www.dayzexpansion.com/forums",
+    "DiscordButton": 1,
+    "DiscordURL": "https://discord.io/expansion"
+}

@@ -1,0 +1,6 @@
+{
+    "EnableTerritories": 1,
+    "UseWholeMapForInviteList": 0,
+    "TerritorySize": 150,
+    "MaxMembersInTerritory": 10
+}

@@ -1,0 +1,21 @@
+{
+    "CanCraftVanillaBasebuilding": 0,
+    "CanCraftExpansionBasebuilding": 1,
+    "CanCraftTerritoryFlag": 1,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 0,
+    "CanRaidSafes": 1,
+    "ExplosionTime": 60,
+    "ExplosionDamageMultiplier": 50,
+    "ProjectileDamageMultiplier": 2,
+    "TerritoryMode": 0,
+    "CodeLockLength": 4,
+    "AllowedItemsToPlaceEveryWhereButNotInEnnemyTerritory": [
+        "ExpansionExplosiveBase",
+        "Fireplace",
+        "ExpansionFlagKitBase"
+    ],
+    "AllowedItemsToPlaceInEnemyTerritory": [
+        "ExpansionExplosiveBase"
+    ]
+}
