@@ -35,6 +35,7 @@
             "Sea_Platform",
             "Solnechniy",
             "Staroye",
+            "StaryYarBunker",
             "Svetloyarsk",
             "Tisy",
             "BerezinoNoCollision",
@@ -60,6 +61,7 @@
             "RoadsNoCollision",
             "Solnechniy_GrassNoCollision",
             "StaroyeNoCollision",
+            "StaryYarBunkerNoCollision",
             "SvetloyarskNoCollision",
             "SvetRoadForestNoCollision",
             "TisyNoCollision"
@@ -77,6 +79,7 @@
     "NeedGPSItemForKeyBinding": 1,
     "NeedMapItemForKeyBinding": 0,
     "EnableHUDNightvisionOverlay": 1,
+    "DisableMagicCrosshair": 0,
     "EnablePlayerTags": 1,
     "PlayerTagViewRange": 5,
     "EnableHumanityOnPlayerTags": 0,

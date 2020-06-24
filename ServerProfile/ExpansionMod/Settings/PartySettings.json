@@ -2,5 +2,6 @@
     "EnableParties": 1,
     "MaxInParty": 10,
     "ShowPartyMembers3DMarkers": 1,
-    "UseWholeMapForInviteList": 0
+    "UseWholeMapForInviteList": 0,
+    "EnableQuickMarker": 1
 }
