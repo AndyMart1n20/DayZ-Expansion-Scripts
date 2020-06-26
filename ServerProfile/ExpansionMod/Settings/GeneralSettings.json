@@ -1,15 +1,9 @@
 {
     "PlayerLocationNotifier": 1,
-    "ShowPlayerJoinServer": 1,
-    "JoinMessageType": 1,
-    "ShowPlayerLeftServer": 1,
-    "LeftMessageType": 1,
-    "EnableKillFeed": 0,
-    "KillFeedMessageType": 1,
     "EnableHumanity": 0,
     "EnableGlobalChat": 1,
     "Mapping": {
-        "UseCustomMappingModule": 1,
+        "UseCustomMappingModule": 0,
         "Mapping": [
             "BerezhkiCave",
             "Berezino",
@@ -35,7 +29,7 @@
             "Sea_Platform",
             "Solnechniy",
             "Staroye",
-            "StaryYarBunker",
+            "StaryYarBkr",
             "Svetloyarsk",
             "Tisy",
             "BerezinoNoCollision",
@@ -61,20 +55,18 @@
             "RoadsNoCollision",
             "Solnechniy_GrassNoCollision",
             "StaroyeNoCollision",
-            "StaryYarBunkerNoCollision",
+            "StaryYarBkrNoCollision",
             "SvetloyarskNoCollision",
             "SvetRoadForestNoCollision",
             "TisyNoCollision"
         ],
         "ObjectsToDelete": [],
-        "InteriorBuilding": 1,
-        "Ivies": 1
+        "InteriorBuilding": 0,
+        "Ivies": 0
     },
-    "LightingConfig": 2,
     "EnableLamps": 3,
     "EnableGenerators": 0,
     "EnableLighthouses": 1,
-    "EnableAutoRun": 1,
     "EnableHUDGPS": 1,
     "NeedGPSItemForKeyBinding": 1,
     "NeedMapItemForKeyBinding": 0,
@@ -84,7 +76,6 @@
     "PlayerTagViewRange": 5,
     "EnableHumanityOnPlayerTags": 0,
     "EnablePlayerList": 1,
-    "UnlimitedStamina": 0,
-    "SpawnVehicleWithRandomSkin": 1,
-    "VehicleSync": 0
+    "EnableAutoRun": 1,
+    "UnlimitedStamina": 0
 }

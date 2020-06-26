@@ -1,7 +1,9 @@
 {
     "EnableParties": 1,
     "MaxInParty": 10,
-    "ShowPartyMembers3DMarkers": 1,
     "UseWholeMapForInviteList": 0,
-    "EnableQuickMarker": 1
+    "ShowPartyMembers3DMarkers": 1,
+    "DistanceForPartyMarkers": 2048,
+    "EnableQuickMarker": 1,
+    "ShowDistanceUnderQuickMarkers": 1
 }

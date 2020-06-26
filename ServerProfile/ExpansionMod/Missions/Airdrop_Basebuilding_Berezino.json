@@ -6,6 +6,7 @@
     "Difficulty": 0,
     "Objective": 0,
     "Reward": "",
+    "ShowNotification": 1,
     "Height": 750,
     "Speed": 25,
     "Container": "ExpansionAirdropContainer_Basebuilding",
@@ -157,7 +158,7 @@
             "Chance": 0.1
         },
         {
-            "Name": "ExpansionATentKit",
+            "Name": "ExpansionCamoTentKit",
             "Attachments": [],
             "Chance": 0.25
         },
