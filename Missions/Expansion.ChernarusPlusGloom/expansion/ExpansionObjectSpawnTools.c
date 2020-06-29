@@ -91,7 +91,7 @@ void LoadMissionObjectsFile( string name, string worldname )
 
 		int flags = ECE_CREATEPHYSICS;
 
-		obj = GetGame().CreateObject_WIP( className, position, flags );
+		obj = GetGame().CreateObjectEx( className, position, flags );
 			if ( !obj )
 				continue;
 
