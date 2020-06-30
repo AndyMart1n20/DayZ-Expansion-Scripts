@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer",
     "DropLocation": {
         "x": 4807,
-        "y": 9812,
+        "z": 9812,
         "Name": "NWAF",
         "Radius": 100
     },

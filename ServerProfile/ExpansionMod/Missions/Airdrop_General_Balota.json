@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer",
     "DropLocation": {
         "x": 5043,
-        "y": 2505,
+        "z": 2505,
         "Name": "Balota",
         "Radius": 100
     },

@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Basebuilding",
     "DropLocation": {
         "x": 2700,
-        "y": 6193,
+        "z": 6193,
         "Name": "Sosnovka",
         "Radius": 100
     },

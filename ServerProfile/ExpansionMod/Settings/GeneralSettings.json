@@ -3,7 +3,7 @@
     "EnableHumanity": 0,
     "EnableGlobalChat": 1,
     "Mapping": {
-        "UseCustomMappingModule": 0,
+        "UseCustomMappingModule": 1,
         "Mapping": [
             "BerezhkiCave",
             "Berezino",
@@ -61,8 +61,8 @@
             "TisyNoCollision"
         ],
         "ObjectsToDelete": [],
-        "InteriorBuilding": 0,
-        "Ivies": 0
+        "InteriorBuilding": 1,
+        "Ivies": 1
     },
     "EnableLamps": 3,
     "EnableGenerators": 0,
@@ -77,5 +77,6 @@
     "EnableHumanityOnPlayerTags": 0,
     "EnablePlayerList": 1,
     "EnableAutoRun": 1,
-    "UnlimitedStamina": 0
+    "UnlimitedStamina": 0,
+    "DisableDamagedHeliSpin": 1
 }

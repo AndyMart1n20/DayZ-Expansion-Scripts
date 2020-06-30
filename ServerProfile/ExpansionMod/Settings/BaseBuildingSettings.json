@@ -7,7 +7,9 @@
         "ExpansionFlagKitBase"
     ],
     "DeployableInsideAEnemyTerritory": [
-        "ExpansionSatchel"
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap"
     ],
     "CanCraftVanillaBasebuilding": 0,
     "CanCraftExpansionBasebuilding": 1,

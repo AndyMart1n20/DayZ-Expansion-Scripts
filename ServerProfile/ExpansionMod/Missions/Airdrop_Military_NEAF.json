@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Military",
     "DropLocation": {
         "x": 12159,
-        "y": 12583,
+        "z": 12583,
         "Name": "NEAF",
         "Radius": 100
     },

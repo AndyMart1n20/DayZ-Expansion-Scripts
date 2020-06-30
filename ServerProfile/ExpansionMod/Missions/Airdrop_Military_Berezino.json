@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Military",
     "DropLocation": {
         "x": 11464,
-        "y": 8908,
+        "z": 8908,
         "Name": "Berezino",
         "Radius": 100
     },

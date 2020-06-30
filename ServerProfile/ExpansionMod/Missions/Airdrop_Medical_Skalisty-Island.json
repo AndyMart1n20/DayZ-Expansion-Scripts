@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Medical",
     "DropLocation": {
         "x": 13452,
-        "y": 3112,
+        "z": 3112,
         "Name": "Skalisty Island",
         "Radius": 100
     },

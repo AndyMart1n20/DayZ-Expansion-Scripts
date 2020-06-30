@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Medical",
     "DropLocation": {
         "x": 11125,
-        "y": 14040,
+        "z": 14040,
         "Name": "Novodmitrovsk",
         "Radius": 100
     },

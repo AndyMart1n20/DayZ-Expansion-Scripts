@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Basebuilding",
     "DropLocation": {
         "x": 2351,
-        "y": 5393,
+        "z": 5393,
         "Name": "Zelenogorsk",
         "Radius": 100
     },

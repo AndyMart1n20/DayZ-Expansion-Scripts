@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Military",
     "DropLocation": {
         "x": 5823,
-        "y": 7764,
+        "z": 7764,
         "Name": "Stary Sobor",
         "Radius": 100
     },

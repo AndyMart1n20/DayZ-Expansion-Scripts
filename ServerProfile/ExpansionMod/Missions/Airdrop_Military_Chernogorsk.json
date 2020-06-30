@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Military",
     "DropLocation": {
         "x": 6128,
-        "y": 2497,
+        "z": 2497,
         "Name": "Chernogorsk",
         "Radius": 100
     },

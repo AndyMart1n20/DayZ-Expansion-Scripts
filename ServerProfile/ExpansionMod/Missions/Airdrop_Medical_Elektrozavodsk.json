@@ -12,7 +12,7 @@
     "Container": "ExpansionAirdropContainer_Medical",
     "DropLocation": {
         "x": 9371,
-        "y": 2229,
+        "z": 2229,
         "Name": "Elektrozavodsk",
         "Radius": 100
     },
